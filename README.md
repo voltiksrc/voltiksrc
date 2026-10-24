@@ -9,4 +9,4 @@ I love Gentoo
 <img src="https://skillicons.dev/icons?i=cpp,c,cmake" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="45" />
 
 ### Contact
-Mail [Email me](mailto:tsukasatsa@gmail.com)
+[Email me](mailto:tsukasatsa@gmail.com)
