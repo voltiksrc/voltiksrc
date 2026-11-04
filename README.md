@@ -1,7 +1,7 @@
 ## About me 
 I'm a hobbyist programmer who codes for fun
 
-C++ developer | Linux enthusiast
+C/C++ developer | Linux enthusiast
 
 I love Gentoo
 
