@@ -1,8 +1,7 @@
 ## About me 
 I'm a hobbyist programmer who codes for fun
 
-C/C++ developer | Linux enthusiast
-
+Rust/C developer | Linux enthusiast
 I love Gentoo
 
 ### Languages/interests
